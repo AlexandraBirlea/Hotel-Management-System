@@ -1,0 +1,20 @@
+# Mac
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Java / Maven
+target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# build
+build/
+dist/
+
+# environment
+.env

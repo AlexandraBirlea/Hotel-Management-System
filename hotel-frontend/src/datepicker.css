@@ -1,0 +1,8 @@
+/* red, crossed-out fully booked days */
+.fully-booked-day,
+.react-datepicker__day--disabled.fully-booked-day {
+  background-color: #fee2e2 !important; /* light red */
+  color: #b91c1c !important;           /* dark red text */
+  text-decoration: line-through;
+  border-radius: 50% !important;
+}
